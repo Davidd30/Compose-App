@@ -6,7 +6,7 @@
 
 > A minimal, containerized application designed specifically for testing Docker and Docker Compose configurations.
 
-![Browser Preview]('Screenshots/Screenshot 2025-11-19 at 2.47.42 AM.png')
+![Browser Preview]("Screenshots/Screenshot 2025-11-19 at 2.47.42 AM.png")
 
 ## 🧪 About This Project
 This project serves as a sandbox to demonstrate and verify a containerized workflow. It runs a lightweight Flask server that outputs environment details to the web browser. 
