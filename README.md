@@ -6,7 +6,7 @@
 
 > A minimal, containerized application designed specifically for testing Docker and Docker Compose configurations.
 
-![Browser Preview](assets/browser-view.png)
+![Browser Preview]('/Screenshots/Screenshot 2025-11-19 at 2.47.42 AM.png')
 
 ## 🧪 About This Project
 This project serves as a sandbox to demonstrate and verify a containerized workflow. It runs a lightweight Flask server that outputs environment details to the web browser. 
@@ -70,8 +70,8 @@ Screenshots confirming the build process and container status:
 
 | Build Process | Container Status |
 |:---:|:---:|
-| <img src="assets/docker-build.jpg" width="400"> | <img src="assets/docker-ps.jpg" width="400"> |
-| *Docker building layers successfully* | *Container `flask_compose_app` up and running* |
+| <img src="'/Screenshots/Screenshot 2025-11-19 at 2.48.18 AM.png'" width="400"> | <img src="'/Screenshots/Screenshot 2025-11-19 at 2.46.53 AM.png'" width="400"> |
+| *Docker building layers successfully* | *Container `flask_compose_app` up and running* | 
 
 ## 🚀 How to Test
 1.  **Clone the Repository**
